@@ -9,3 +9,4 @@ docker run -d \
     --name nginx
     -v nginx:/usr/share/nginx/html:ro \
     nginx
+feature2
